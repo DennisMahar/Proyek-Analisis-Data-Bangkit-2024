@@ -5,6 +5,8 @@
 
 
 # Run Dashboard
+```
 conda create main-ds
 conda activate main-ds
 streamlit run dashboard.py
+```
